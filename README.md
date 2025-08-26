@@ -39,8 +39,8 @@ I love building **scalable web apps**, exploring **AI & Machine Learning**, and 
 
 ## 📫 Contact Me
 - Email: pharo8496@gmail.com 
-- Portfolio: [yourportfolio.com](https://haronext.com/portfolio)
- -   Portfolio2: [yourportfolio.com](https://elimuwise.com)
+- Portfolio: [Company Profile](https://haronext.com/portfolio)
+ -   Portfolio2: [Work Platform](https://elimuwise.com)
 - - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/peter-haro-23a627230/)
 
 ## 📌 GitHub Stats
