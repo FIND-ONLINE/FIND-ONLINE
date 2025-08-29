@@ -44,7 +44,7 @@ I love building **scalable web apps**, exploring **AI & Machine Learning**, and 
 - - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/peter-haro-23a627230/)
 
 ## 📌 GitHub Stats
-![Peter Haro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FIND-ONLINE&show_icons=true&theme=radical)
+![Peter Haro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peter-Haro/FIND-ONLINE&show_icons=true&theme=radical)
 
 
 ## 🎯 Fun Section
